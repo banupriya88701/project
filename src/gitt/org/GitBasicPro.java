@@ -3,6 +3,10 @@ package gitt.org;
 public class GitBasicPro {
 	
 	
+	private void sysout() {
+		// TODO Auto-generated method stub
+System.out.println("  sucuss"   );
+	}
 	private void name() {
 		System.out.println("Banu");
 	}
